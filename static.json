@@ -1,6 +1,6 @@
 {
     "routes": {
-    "/test/": "public_html/test.html"
+    "/route/**": "/test.html"
   }
   "headers":{
     "/*": {
