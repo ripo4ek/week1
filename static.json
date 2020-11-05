@@ -1,7 +1,4 @@
 {
-    "routes": {
-    "/route/**": "/test.html"
-  }
   "headers":{
     "/*": {
       "X-Author": "rip123123",
